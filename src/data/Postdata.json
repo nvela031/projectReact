@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "title": "Hello Wolrd 1",
+    "content": "Try Reactjs is awesome. Can't wait to learn more",
+    "slug": "hello-world",
+    "image": "logo192.png"
+  },
+
+  {
+    "id": 2,
+    "title": "The Magic Alex 2",
+    "content": "Magic or Magic. Learn more about it!",
+    "slug": "setup-react",
+    "image": "logo192.png"
+  },
+
+  {
+    "id": 3,
+    "title": "Alex 3",
+    "content": "Alex is Awesome. Learn more about it!",
+    "slug": "setup-react",
+    "image": "logo192.png"
+  },
+
+  {
+    "id": 4,
+    "title": "Setup React 4",
+    "content": "Setting up react is easy. Learn more about it!",
+    "slug": "setup-react",
+    "image": "logo192.png"
+  }
+]
